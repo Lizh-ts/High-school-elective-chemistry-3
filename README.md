@@ -26,3 +26,10 @@ Generate acid-base titration graphs
   <img src="P_20241118_130531.jpg" width="50%"/>
   <br>
 </p>
+
+# 關於期末考的部分
+
+<p align="left">
+  <img src="IMG20240628071829.jpg" width="44%"/>
+  <br>
+</p>
