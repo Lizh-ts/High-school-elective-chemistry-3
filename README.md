@@ -21,6 +21,6 @@ Generate acid-base titration graphs
 ## 執行結果長這樣
 
 <p align="left">
-  <img src="P_20241118_130531.jpg" width="25%"/>
+  <img src="P_20241118_130531.jpg" width="50%"/>
   <br>
 </p>
