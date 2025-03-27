@@ -1,5 +1,4 @@
-高中選修化學3 2-6酸鹼滴定與滴定曲線
-================================
+# 高中選修化學3 2-6酸鹼滴定與滴定曲線
 
 Generate acid-base titration graphs
 
@@ -18,3 +17,10 @@ Generate acid-base titration graphs
 然後步驟參在強對強時不需輸入也不會顯示
 
 順帶一提：物理比化學簡單(希望化學分數能到80分)
+
+## 執行結果長這樣
+
+<p align="left">
+  <img src="P_20241118_130531.jpg" width="25%"/>
+  <br>
+</p>
