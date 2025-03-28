@@ -25,7 +25,7 @@ Generate acid-base titration graphs
 ## 執行結果長這樣
 
 <p align="left">
-  <img src="P_20241118_130531.jpg" width="50%"/>
+  <img src="P_20241118_130531.jpg" width="100%"/>
   <br>
 </p>
 
@@ -34,6 +34,6 @@ Generate acid-base titration graphs
 考卷土石流，這很少見，通常是因為期末將至且考"完了"，書的存在並不是這麼的重要，因此開始瘋狂拋棄他們，而對積如山的考卷因磨擦力不足(微觀是電磁力)而墜落，其中數學課本被拿去"封印"一週沒倒的廚餘桶，不然整個班上會非常精彩。
 
 <p align="left">
-  <img src="IMG20240628071829.jpg" width="44%"/>
+  <img src="IMG20240628071829.jpg" width="100%"/>
   <br>
 </p>
