@@ -33,7 +33,6 @@ Generate acid-base titration graphs
 
 <p align="left">
   <img src="P_20241118_130531.jpg" width="100%"/>
-  <br>
 </p>
 <br>
 <br>
@@ -47,5 +46,4 @@ Generate acid-base titration graphs
 
 <p align="left">
   <img src="IMG20240628071829.jpg" width="100%"/>
-  <br>
 </p>
